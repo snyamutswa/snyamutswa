@@ -11,7 +11,7 @@ My journey in the IT field has led me to develop a passion for cybersecurity, I 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a https://github.com/snyamutswa/Security-Operation-Centre-SOC-Lab>SOC Lab</a>                                                                                                             
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/snyamutswa/Security-Operation-Centre-SOC-Lab">SOC Lab</a>|                                                                                                         
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | blaaaaaaaaaaaaaaaaaaaaaaaaa|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
