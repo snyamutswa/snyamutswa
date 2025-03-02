@@ -1,5 +1,6 @@
-# Hello, I'm Stewart
-<a href="https://linkedin.com"><img src="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bm48twffdSLGSYOSLjEBKSg%3D%3D" /></a>
+# Hello, I'm Stewart 
+
+<a href="https://linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3Bm48twffdSLGSYOSLjEBKSg%3D%3D"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Hello, Im Stewart and this is my Cybersecurity portfolio. 
 
