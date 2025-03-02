@@ -1,5 +1,5 @@
 # Hello, I'm snyamutswa
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />SOC Lab</a>
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Hie, Im Stewart and this is my Cybersecurity portfolio. 
 
@@ -11,7 +11,8 @@ My journey in the IT field has led me to develop a passion for cybersecurity, I 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | (https://github.com/snyamutswa/Security-Operation-Centre-SOC-Lab)|
+| SIEM Implementation and Log Analysis          | <a https://github.com/snyamutswa/Security-Operation-Centre-SOC-Lab>SOC Lab</a>                                                                                                             
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | blaaaaaaaaaaaaaaaaaaaaaaaaa|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
