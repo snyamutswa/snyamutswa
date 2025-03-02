@@ -1,7 +1,7 @@
-# Hello, I'm snyamutswa
+# Hello, I'm Stewart
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Hie, Im Stewart and this is my Cybersecurity portfolio. 
+Hello, Im Stewart and this is my Cybersecurity portfolio. 
 
 ## Objective
 
@@ -16,14 +16,12 @@ My journey in the IT field has led me to develop a passion for cybersecurity, I 
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
       
 <a href="https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint" 
 target="_blank"><img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
-                
+
 <a href="https://www.splunk.com/" target="_blank"><img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /></a>
 
 </div>
