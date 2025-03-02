@@ -1,6 +1,6 @@
 # Hello, I'm Stewart 
 
-<a href="https://linkedin.com/in/stewart-nyamutswa-b883ba354><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/stewart-nyamutswa-b883ba354"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Hello, Im Stewart and this is my Cybersecurity portfolio. 
 
