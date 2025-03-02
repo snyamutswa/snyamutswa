@@ -24,7 +24,7 @@ My journey in the IT field has led me to develop a passion for cybersecurity, I 
  
  
  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
- <img <a href="https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint" target="_blank"> </a>/>
+ <img <a href="https://www.microsoft.com/en-us/security/business/endpoint-security/microsoft-defender-endpoint" target="_blank"> </a>
     
 
 
