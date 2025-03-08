@@ -36,3 +36,5 @@ target="_blank"><img src="https://img.shields.io/badge/-Microsoft_Defender_for_E
 
 ## Projects
 - <a href="https://github.com/snyamutswa/Security-Operation-Centre-SOC-Lab">Security Operation Center Lab</a>
+- <a href="https://github.com/snyamutswa/Active-Directory">Active Directory Lab</a>
+
