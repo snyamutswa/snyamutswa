@@ -12,8 +12,9 @@ My journey in the IT field has led me to develop a passion for cybersecurity, I 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/snyamutswa/Security-Operation-Centre-SOC-Lab">SOC Lab</a>|                                                                                                         
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/snyamutswa/Security-Operation-Centre-SOC-Lab">SOC Lab</a>|                                     | Vulnerability Management          | <a href="https://github.com/snyamutswa/Vulnerability-Management">Vulnerability Management</a>|                                                                    
 | Active Directory          | <a href="https://github.com/snyamutswa/Active-Directory">Active Directory Lab</a>|
+
 
 
 ## Tools
